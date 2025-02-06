@@ -1,5 +1,8 @@
 # Bulk Email Sender with Personalized HTML Content - (Email Automation Script)
 
+## Live App here -
+https://github.com/aadarsh-nagrath/email-automation-app
+
 This Python script allows you to send personalized HTML emails in bulk, attaching files as needed. It reads recipient email addresses and company names from a file, customizes the email content for each recipient, and sends it via Gmail's SMTP server.
 
 ## Features
